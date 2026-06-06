@@ -32,3 +32,46 @@ nav a {
 nav a:hover {
   color: gold;
 }
+
+/* HERO */
+#hero {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#lotteryInput {
+  padding: 10px;
+  width: 200px;
+  border-radius: 6px;
+  border: none;
+}
+
+button {
+  padding: 10px 15px;
+  background: gold;
+  border: none;
+  cursor: pointer;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #ffd700;
+}
+
+/* SECTIONS */
+section {
+  padding: 20px;
+}
+
+section h2 {
+  border-left: 5px solid gold;
+  padding-left: 10px;
+}
+
+#thaiData, #laoData, #apbData {
+  background: #1c1c1c;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
